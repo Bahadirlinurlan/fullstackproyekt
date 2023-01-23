@@ -1,0 +1,42 @@
+nav{
+    display: flex;
+    background-color: rgba(243, 217, 69, 0.76);
+    justify-content: space-between;
+    width: 100%;
+    padding: 27px 0px;
+    height: auto;
+     
+}
+
+
+.navbar__left{
+margin-left: 100px;
+font-size: 30px;
+font-family: 'Roboto', sans-serif;
+
+}
+
+.navbar__right{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    
+}
+.navbar__right ul{
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+
+ul{
+    color: rgb(0, 0, 0);
+     list-style-type: none; 
+}
+
+.Navbar__header{
+    margin-top: 20%;
+}

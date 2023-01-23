@@ -1,0 +1,70 @@
+.navbar__container{
+    position: relative;
+    margin-top: -30%;
+    margin-left: 14%;
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+    font-family: 'Playfair Display', serif;
+
+}
+.navbar__container2{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.navbar__container3{
+    margin-top: 25%;
+    text-align: center !important;
+    font-weight: 300;
+    color: #000000;
+    font-family: 'Playfair Display';
+    font-size: 2rem;
+}
+
+.navbar__container4{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: #3f3c3c;
+}
+
+.navbar__container55{
+    display: flex;
+    width: 56%;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    flex-wrap: wrap;
+    height:55vh;
+    padding: 9px;
+}
+
+.navbar__container5{
+    width: 250px;
+    height: 150px;
+    padding: 40px;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+   
+}
+.navbar__container6{
+    width: 250px;
+    height: 150px;
+    padding: 40px;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.navbar__container7{
+    width: 250px;
+    height: 150px;
+    padding: 40px;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+.navbar__container8{
+    width: 250px;
+    height: 150px;
+    padding: 40px;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
